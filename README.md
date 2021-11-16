@@ -4,7 +4,6 @@ I work on:
 
 - PHP/Laravel
 - SQL
-- JS/Vue (still learning)
 - C#
 - Python (also learning)
 
