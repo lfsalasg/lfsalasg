@@ -2,10 +2,10 @@ Half time web developer, half time ChemE student and full time looking for softw
 
 I work on:
 
+- Python
 - PHP/Laravel
 - SQL
 - C#
-- Python (also learning)
 
 <!---
 lfsalasg/lfsalasg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
