@@ -1,11 +1,12 @@
-Half time web developer, half time ChemE student and full time looking for software solutions to the industry.
+Half time web developer, half time Chemical Engineer and full time looking for software solutions to the industry.
 
 I work on:
 
-- Python
-- PHP/Laravel
+- Python (particularly deep learning models with Pytorch)
+- Rust
 - SQL
-- C#
+- Bash
+- PHP
 
 <!---
 lfsalasg/lfsalasg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
