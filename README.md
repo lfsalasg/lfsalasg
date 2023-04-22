@@ -6,7 +6,6 @@ I work on:
 - Rust
 - SQL
 - Bash
-- PHP
 
 <!---
 lfsalasg/lfsalasg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
