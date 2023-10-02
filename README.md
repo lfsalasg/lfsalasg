@@ -1,4 +1,4 @@
-Half time web developer, half time Chemical Engineer and full time looking for software solutions to the industry.
+Half time software developer, half time Chemical Engineer and full time looking for software solutions to the industry.
 
 I work on:
 
